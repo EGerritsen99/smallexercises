@@ -8,7 +8,7 @@ or35(3) → true
 or35(10) → true
 or35(8) → false
  */
-package or_35;
+package or35;
 
 import java.util.Scanner;
 
