@@ -7,7 +7,7 @@ Input a number: 20
 1
  */
  
- package even_odd;
+ package evenodd;
  
  import java.util.Scanner;
  
