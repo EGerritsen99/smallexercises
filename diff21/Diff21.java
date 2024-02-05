@@ -11,7 +11,7 @@ diff21(21) → 0
  */
  
  
- package diff_21;
+ package diff21;
  
  import java.util.Scanner;
  
