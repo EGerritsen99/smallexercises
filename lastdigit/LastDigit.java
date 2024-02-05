@@ -10,7 +10,7 @@ lastDigit(6, 17) → false
 lastDigit(3, 113) → true
  */
  
- package w1_w5;
+ package lastdigit;
  
  import java.util.Scanner;
  
