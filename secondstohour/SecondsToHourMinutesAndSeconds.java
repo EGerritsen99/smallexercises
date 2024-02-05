@@ -9,7 +9,7 @@ Input seconds: 86399
 23:59:59
  */
  
- package seconds_to_hour;
+ package secondstohour;
  
  import java.util.Scanner;
  
