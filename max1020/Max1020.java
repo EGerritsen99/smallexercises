@@ -7,7 +7,7 @@ max1020(19, 11) → 19
 max1020(11, 9) → 11
  */
  
- package max_1020;
+ package max1020;
  
  import java.util.Scanner;
  
