@@ -1,4 +1,4 @@
-package even_sum;
+package evensum;
 
 
 // TAGS for-loops, operators-arithmetic, remainder-operator, while-loops
