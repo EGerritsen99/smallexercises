@@ -1,4 +1,4 @@
-package reverse_integer;
+package reverseinteger;
 
 // TAGS operators-arithmetic, operators-relational, Scanner, Scanner.nextInt(), System.out.print(), while-loops
 
