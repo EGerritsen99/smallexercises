@@ -8,7 +8,7 @@ front22("Ha") → "HaHaHa"
 front22("abc") → "ababcab"
  */
  
- package front_22;
+ package front22;
  
  import java.util.Scanner;
  
